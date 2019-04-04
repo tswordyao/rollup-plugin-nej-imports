@@ -9,4 +9,4 @@ const nejTransImportsToRequirePlugin = function(){
     }
 }; 
 
-export default nejTransImportsToRequirePlugin;
+module.exports = nejTransImportsToRequirePlugin;
