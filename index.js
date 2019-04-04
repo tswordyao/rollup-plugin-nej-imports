@@ -1,3 +1,4 @@
+const babelCore= require('@babel/core')
 const {transImportsToRequire} = require('babel-plugin-nej-pack');
 
 const nejTransImportsToRequirePlugin = function(){
